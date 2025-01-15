@@ -14,6 +14,7 @@ This is a Sublime plugin to compile your Sass using Dart Sass. This is my first 
 - Download Dart Sass, move to preferred directory - https://github.com/sass/dart-sass/releases
 - Add the location to the executable to the settings file `SassBuilder.sublime-settings`
 - Make a folder in your project - sass, scss or whatever
+- Create a .scss file and add some sass to it, save
 - Add that folder name to the settings as well
 - Customize the name of your output folder
 - Go to Tools > Build
