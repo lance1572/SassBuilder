@@ -1,7 +1,9 @@
 # SassBuilder
 Sublime Text Package for Dart Sass. 
 
-This is a Sublime plugin to compile your Sass using Dart Sass. This is my first attempt at creating a plugin and I'm sure that there are somethings to be improved upon. This is for Mac but i'm sure it could work for Windows and Linux with some path adjustments. So be forewarned.
+This is a Sublime plugin to compile your Sass using Dart Sass. This is my first attempt at creating a plugin and I'm sure that there are somethings to be improved upon. This is for Mac but i'm sure it could work for Windows and Linux with some path adjustments. So be forewarned. 
+
+For this, I used the Dart Sass exec instead of the other install methods like brew or npm - I needed something very quick. Later, I will change to something more programatic.
 
 **I am not supporting this so use at your own risk. It may OR may not work for you.**
 
