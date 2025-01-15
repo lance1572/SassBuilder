@@ -13,10 +13,11 @@ For this, I used the Dart Sass exec instead of the other install methods like br
 
 `Library/Application Support/Sublime Text/Packages/`
 
-- Download Dart Sass, move to preferred directory - https://github.com/sass/dart-sass/releases
+- Download Dart Sass https://github.com/sass/dart-sass/releases
+- Move to preferred directory
 - Add the location to the executable to the settings file `SassBuilder.sublime-settings`
-- Make a folder in your project - sass, scss or whatever
-- Create a .scss file and add some sass to it, save
-- Add that folder name to the settings as well
-- Customize the name of your output folder
+- Make a input folder in your project (name it sass, scss or whatever)
+- Create a .scss file in that input folder and add some sass to it, save
+- Add that input folder name in the previous step to the settings file `SassBuilder.sublime-settings`
+- Add the output folder name to the setting file `SassBuilder.sublime-settings`
 - Go to Tools > Build
