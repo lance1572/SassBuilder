@@ -1,4 +1,4 @@
-# DartSassCompile
+# SassBuilder
 Sublime Text Package for Dart Sass. 
 
 This is a Sublime plugin to compile your Sass using Dart Sass. This is my first attempt at creating a plugin and I'm sure that there are somethings to be improved upon. 
