@@ -1,0 +1,9 @@
+{
+    "dart_sass_path": "[Your Location]/dart-sass/sass",
+    "input": {
+        "dir": "scss"
+    },
+    "output": {
+        "dir": "css"
+    }
+}

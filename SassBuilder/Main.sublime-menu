@@ -1,0 +1,29 @@
+[
+	{
+	"id": "preferences",
+	"children":
+	[{
+		"caption": "Package Settings",
+		"mnemonic": "P",
+		"id": "package-settings",
+		"children": [{
+			"caption": "SassBuilder",
+			"children": [
+				{
+					"command": "open_file", "args": {
+						"file": "${packages}/SassBuilder/SassBuilder.sublime-settings"
+					},
+					"caption": "Settings – Default"
+				},
+				{
+					"command": "open_file", "args": {
+						"file": "${packages}/User/SassBuilder.sublime-settings"
+					},
+					"caption": "Settings – User"
+				},
+				{ "caption": "-" }
+			]
+		}]
+	}]
+}
+]

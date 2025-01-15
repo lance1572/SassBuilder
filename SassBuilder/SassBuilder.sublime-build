@@ -1,0 +1,4 @@
+{
+    "target": "sass_builder",
+    "selector": "source.sass, source.scss"     
+}
