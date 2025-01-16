@@ -1,3 +1,4 @@
+![image_info](https://github.com/lance1572/SassBuilder/blob/main/SassBuilder.svg)
 # SassBuilder
 Sublime Text Package for Dart Sass. 
 
